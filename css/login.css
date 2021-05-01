@@ -87,11 +87,11 @@ h3{
 }
 @media screen and ( max-width: 650px){
     .section-login{        
-        width: 55%;
+        width: 58%;
     }    
 }
 @media screen and ( max-width: 420px){
     .section-login{        
-        width: 75%;
+        width: 82%;
     }   
 }

@@ -30,7 +30,7 @@ nav{
     border-bottom: 1px solid transparent;
     position: fixed;
     top:0;
-    z-index:1000;
+    z-index:100;
 }
 .enlaces-header a:hover{
     color: #ffbe0f;
@@ -146,8 +146,7 @@ nav{
         width: 100%;        
     }
     .nav .menudos{                
-        clip-path: inset(0 100% 0 100%);/*Despliegue del menu hacia abajo*/
-        /* z-index: -1; */
+        clip-path: inset(0 100% 0 100%);/*Despliegue del menu hacia abajo*/        
     }
 }
 @media screen and ( max-width: 580px){

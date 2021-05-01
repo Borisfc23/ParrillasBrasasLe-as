@@ -39,6 +39,7 @@ nav{
     display: flex;  
     justify-content: space-between;   
     align-items: center;     
+    padding: 0 20px;
 }
 .nav .menudos{
     clip-path: circle(141.4% at 100% 0);

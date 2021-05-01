@@ -39,7 +39,7 @@ nav{
     display: flex;  
     justify-content: space-between;   
     align-items: center;     
-    padding: 0 20px;
+    padding: 0 15px  0 10px;
 }
 .nav .menudos{
     clip-path: circle(141.4% at 100% 0);
@@ -78,7 +78,7 @@ nav{
     height: 25px;
     width: 100%;    
     background: #e6e6e6;        
-    padding: 0 20px;
+    padding: 0 15px;
 }
 .header{
     max-width: 1100px;
@@ -165,5 +165,5 @@ nav{
     }
 }
 @media screen and ( max-width: 400px){
-
+    .
 }
